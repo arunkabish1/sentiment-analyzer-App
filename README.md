@@ -3,6 +3,8 @@
 
 A web application that performs sentiment analysis on a given text. This app uses a backend API built with Python and Flask, which predicts whether the sentiment of a text is positive, negative, or neutral.
 
+## Video Walkthrough
+  link: https://drive.google.com/file/d/1Vseoo1IH5i4LBIgvJNXwRMiFyXgy2TbH/view?usp=sharing
 ## Features
 - Input a sentence or paragraph.
 - Get a sentiment prediction (positive, negative, or neutral).
